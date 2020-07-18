@@ -23,5 +23,3 @@ def create_feed(source):
 
 
 news_feed = create_feed(source)
-
-print(news_feed.info())
