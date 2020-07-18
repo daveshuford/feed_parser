@@ -1,6 +1,5 @@
 '''
-Run all to create feed = possible, convert to class? .. but also have the second half.
-Take in _tables_ and cascade the update
+Run all to create feed 
 '''
 from pprint import pprint
 import db
